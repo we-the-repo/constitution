@@ -2,6 +2,8 @@
 
 **Government as open source.**
 
+> _People over politics. Truth over power._
+
 This is a draft of a new American government — written in plain English, version-controlled, and open to every citizen as a contributor.
 
 ## The problem
