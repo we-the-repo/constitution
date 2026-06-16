@@ -37,4 +37,6 @@ This is that place.
 
 ---
 
+**People over politics. Truth over power.**
+
 *Pull requests welcome.*
