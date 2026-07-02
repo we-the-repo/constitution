@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How this works
+    url: https://github.com/we-the-repo/we-the-repo/blob/main/process/00-how-this-works.md
+    about: Read the process document to understand how decisions are made
+  - name: Contributing guidelines
+    url: https://github.com/we-the-repo/we-the-repo/blob/main/CONTRIBUTING.md
+    about: Read before opening a PR or starting a heated discussion
